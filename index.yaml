@@ -3,7 +3,17 @@ entries:
   webapp-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-26T15:26:04.334580007Z"
+    created: "2025-10-26T17:12:31.607250858Z"
+    description: A Helm chart for My Web App deployed on Kubernetes
+    digest: 37df0adb8d4566b9bc1c340226ee0c439eb8bcb66f40c022839d9bf469a2bbf1
+    name: webapp-chart
+    type: application
+    urls:
+    - https://rheoul4abhay.github.io/my-helm-charts/webapp-chart-0.3.69.tgz
+    version: 0.3.69
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-26T17:12:31.606844934Z"
     description: A Helm chart for My Web App deployed on Kubernetes
     digest: 60a57eba0fb8045a4eb1a3aee46e611b74a476ca4825224a89ef63944fc6cec0
     name: webapp-chart
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://rheoul4abhay.github.io/my-helm-charts/webapp-chart-0.3.67.tgz
     version: 0.3.67
-generated: "2025-10-26T15:26:04.334095941Z"
+generated: "2025-10-26T17:12:31.606363984Z"
